@@ -1,3 +1,3 @@
 # hello-world
 reporsitory 1
-tomorrow is the eclipe
+tomorrow is the eclipse
